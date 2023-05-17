@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,300;1,500&display=swap');
+
+body{
+    background-color: #9380b7;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+}
+
+header{
+    background-color: #301860;
+    height: 90px;
+    padding: auto;
+    margin-top: 00px;
+    color:white;
+    text-align: center;
+}
+img{
+    max-height: 300px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+.conteudo-padrao{
+    text-align:inherit;
+}
+
