@@ -6,9 +6,10 @@ body{
     text-align: center;
 }
 
+
 header{
-    background-color: #301860;
-    height: 90px;
+    background-image: url(fundoo.jpg);
+    height: 150px;  
     padding: auto;
     margin-top: 00px;
     color:white;
@@ -22,7 +23,30 @@ a{
     text-decoration: none;
     color:black;
 }
-.conteudo-padrao{
+.conteudo-padrao {
     text-align:inherit;
+    display: inline-block;
+    width: 48%;
+    border: 3px solid black;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-radius: 15px;
+   height: 30px;
+   line-height: 20px;
 }
+footer{
+    background-color: #301860;
+    height: 100px;
+    padding: auto;
+    margin-top: 00px;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+
+}
+.titulos{
+    text-align: center;
+    font-size:  70px;
+    }
+
 
